@@ -38,7 +38,9 @@ input[type="file"] {
     color: #39D2B4;
 }
 .btn{
-display : content ;
+display : inline;
+ height : 20px;
+  width : 20px;
 }
 
 .loader {
