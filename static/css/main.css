@@ -33,9 +33,12 @@ input[type="file"] {
     cursor: pointer;
 }
 
-.upload-label:hover{
-    background: #34495E;
+.upload-label:hoer{
+    background: #34495E;v
     color: #39D2B4;
+}
+.btn{
+display : content ;
 }
 
 .loader {
